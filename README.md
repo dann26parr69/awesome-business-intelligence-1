@@ -52,7 +52,7 @@
 
 ## Semantic Layers & Metrics
 
-- [LookML](https://cloud.google.com/looker/docs/lookml) – Modeling language for Looker’s semantic layer.
+- [LookML](https://cloud.google.com/looker/docs/lookml) – Modeling language for Looker's semantic layer.
 - [dbt Semantic Layer](https://docs.getdbt.com/docs/use-dbt-semantic-layer) – Centralized metrics and definitions for BI.
 - [MetricFlow](https://github.com/dbt-labs/metricflow) – Open-source metrics engine.
 - [AtScale](https://www.atscale.com/) – Semantic layer and OLAP acceleration for BI tools.
@@ -73,6 +73,7 @@
 - [Qlik Self-Service Analytics](https://www.qlik.com/us/solutions/self-service-analytics) – Associative self-service BI.
 - [Metabase](https://www.metabase.com/) – User-friendly analytics for non-technical teams.
 - [Redash](https://redash.io/) – Query-based BI and dashboards.
+- [AI for Database](https://aifordatabase.com) – Natural language query interface for databases with self-refreshing dashboards and automated data workflows.
 
 ## Open-Source BI
 
